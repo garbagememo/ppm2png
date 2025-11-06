@@ -1,1 +1,1 @@
-Example of converting PNG images
+Example of converting PNG images use FreePascal
